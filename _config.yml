@@ -84,14 +84,14 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products
         description: | # this will include new lines to allow paragraphs
-            • Evaluating, identifying, and developing software solutions
-            • Leading software development projects
-            • Documenting and recording every aspect of an application or software
-            • Training and overseeing the activities of the members of the development team
-            • Planning, tracking and scheduling software deliverables
-            • Locating and directing solutions for critical challenges involving software and hardware interface
-            • Looking for problems within software systems and resolving the issues
-            • Developing good working relationships with other employees, such as Marketing Managers, Product Managers, Programmers and Engineers
+            • Evaluating, identifying, and developing software solutions \n
+            • Leading software development projects \n
+            • Documenting and recording every aspect of an application or software \n
+            • Training and overseeing the activities of the members of the development team \n
+            • Planning, tracking and scheduling software deliverables \n
+            • Locating and directing solutions for critical challenges involving software and hardware interface \n
+            • Looking for problems within software systems and resolving the issues \n
+            • Developing good working relationships with other employees, such as Marketing Managers, Product Managers, Programmers and Engineers \n
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
