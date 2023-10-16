@@ -6,17 +6,17 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Ahmed Eltaher
+title: Development Archtiect
+email: ahmedmahmoud.eltaher@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  ahmedeltaher
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Energetic software architect with 12 years of experience, mainly in the full-stack development area, which enables me to create software that adds business value to you and makes your customer happy.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AWS</mark> , <mark>Backend Development</mark> , <mark>Mobile Development</mark>
 
 content:
   - title: Projects # Title for the section
@@ -76,23 +76,30 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: SAP
+        link: sap.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Software Architect
+        caption: July 2021 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Solving 21st century problems by diging holes and making game changing products
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            • Evaluating, identifying, and developing software solutions
+            • Leading software development projects
+            • Documenting and recording every aspect of an application or software
+            • Training and overseeing the activities of the members of the development team
+            • Planning, tracking and scheduling software deliverables
+            • Locating and directing solutions for critical challenges involving software and hardware interface
+            • Looking for problems within software systems and resolving the issues
+            • Developing good working relationships with other employees, such as Marketing Managers, Product Managers, Programmers and Engineers
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title:  Ain-shams University, Cairo, Egypt
+        caption: 2007 - 2011
+        sub_title: BSc. Computer & Information Engineering, Faculty of Computers & information science.
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -109,7 +116,7 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
+      Look at this cool image
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
