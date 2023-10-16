@@ -83,7 +83,7 @@ content:
         caption: July 2021 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products
-        description: > # this will include new lines to allow paragraphs
+        description: |     # this will include new lines to allow paragraphs
             • Evaluating, identifying, and developing software solutions
             • Leading software development projects
             • Documenting and recording every aspect of an application or software
